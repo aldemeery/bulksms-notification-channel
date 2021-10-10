@@ -3,6 +3,7 @@
 namespace Aldemeery\BulkSMS\Channels;
 
 use Aldemeery\BulkSMS\BulkSMSClient;
+use Aldemeery\BulkSMS\Messages\BulkSMSMessage;
 use Illuminate\Notifications\Notification;
 
 class BulkSMSChannel
